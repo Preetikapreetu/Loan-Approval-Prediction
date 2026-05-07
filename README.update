@@ -1,0 +1,66 @@
+
+---
+
+# 🏦 2. README — Loan Approval Prediction
+
+```markdown
+# 🏦 Loan Approval Prediction System (ML)
+
+This project is a Machine Learning-based Loan Approval Prediction system that predicts whether a loan application will be Approved or Rejected based on applicant details.
+
+---
+
+# 🚀 Project Overview
+
+This system uses classification algorithms to evaluate loan eligibility based on financial and personal information.
+
+---
+
+# 🧠 Features
+
+- Data preprocessing and encoding
+- Handling categorical variables
+- Logistic Regression model
+- Gradio interactive web UI
+- Real-time prediction system
+
+---
+
+# 📊 Input Features
+
+- Gender
+- Married status
+- Dependents
+- Education
+- Self-employed status
+- Applicant Income
+- Coapplicant Income
+- Loan Amount
+- Loan Term
+- Credit History
+- Property Area
+
+---
+
+# 🎯 Output
+
+- Loan Approved 🎉
+- Loan Rejected ❌
+
+---
+
+# 🛠️ Tech Stack
+
+- Python
+- Pandas
+- Scikit-learn
+- NumPy
+- Gradio
+
+---
+
+# 🚀 How to Run
+
+```bash
+pip install gradio scikit-learn pandas numpy
+python loan_app.py
